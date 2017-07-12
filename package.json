@@ -18,6 +18,6 @@
   "homepage": "https://github.com/conspicuousClockwork/yugioh-cli#readme",
   "dependencies": {
     "@google-cloud/datastore": "^1.0.3",
-    "prompt": "^1.0.0"
+    "inquirer": "^3.2.0"
   }
 }
