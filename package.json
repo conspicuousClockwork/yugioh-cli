@@ -1,0 +1,23 @@
+{
+  "name": "yugioh-card-manager",
+  "version": "1.0.0",
+  "description": "CLI application to add and manage yugioh cards in a Google Datastore",
+  "main": "manage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conspicuousClockwork/yugioh-cli.git"
+  },
+  "author": "Caleb Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conspicuousClockwork/yugioh-cli/issues"
+  },
+  "homepage": "https://github.com/conspicuousClockwork/yugioh-cli#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^1.0.3",
+    "prompt": "^1.0.0"
+  }
+}
